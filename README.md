@@ -9,6 +9,7 @@ I have experience with HTML/CSS/JS, PHP, MySQL, and a little bit of Ruby - as we
 ## Frameworks & Technologies that I use
 - Jekyll
 - WordPress
+- MediaWiki
 - Unity 2D
 
 ## Licenses & certifications
