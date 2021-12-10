@@ -19,3 +19,4 @@ I have experience with HTML/CSS/JS, PHP, MySQL, and a little bit of Ruby - as we
 
 ## Projects I'm currently woking on
 - [Aspectfully](https://github.com/ConnorAhern/aspectfully)
+- [DiscordErrorHandler2.0](https://github.com/ConnorAhern/discord-error-handler-2.0)
