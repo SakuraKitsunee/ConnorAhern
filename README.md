@@ -23,5 +23,3 @@ I have experience with HTML/CSS/JS, PHP, MySQL, and a little bit of Ruby - as we
 
 ## Stats
 ![Stats](https://raw.githubusercontent.com/ConnorAhern/ConnorAhern/main/github-metrics.svg)
-
-<img src="javascript:alert(document.domain)">
